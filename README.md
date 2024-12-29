@@ -13,8 +13,8 @@ On Steam I am on these start commands now:
 
 (https://pathofexile.fandom.com/wiki/Launch_options)
 
-Im still playing this on lower settings and tried **Vulkan** Engine, feels also bit better.
+I added parameteres one by one, then testing, then adding the next. What really made it for me was **--softwareaudio** (lol). Im still playing on lower settings, tried **Vulkan Engine** and feels bit better aswell.
 
-Also running this on my notebook, making it very playable here.
+Running it on my notebook too, making it very playable here.
 
-(Posting my Setup later on.)
+(Posting my 2 Setups later on.)
