@@ -1,14 +1,14 @@
 # PathofExileFix
 ## Might fix the shitty stuttering and FPS lags POE1+2 related.
 
-### My Desktop PC
+### 1) My Desktop PC
 CPU: AMD Ryzen 7 3800X 8-Core Processor 3.90 GHz
 
 GPU: AMD Radeon RX 6900 XT
 
 RAM: 64GB Corsair Vengeance LPX schwarz DDR4-3200 DIMM CL16 Dual Kit
 
-### About the problem
+### 2) About the problem
 Never had any stable performance since Path of Exile 1 long ago. Always made some PC upgrades from time to time, and yet other games ran perfect, just POE never did. Friends encountered similar problems. The most annoying was definitive all the micro stuttering, you just recognize when playing.
 
 First starting with standalone client gave the absolute worst performance. Nearly unplayable. Then switching to Steam made it somehow a bit better, no idea why. But was far away from perfect.
@@ -24,7 +24,7 @@ min. 30 to max. 60 FPS
 #### FPS after
 min. 50 to max. 95 FPS
 
-### My Graphic Settings:
+### 3) My Graphic Settings:
 
 Will run better with NVIDIA DLSS, but going FSR with AMD gives pretty good results too. A lot better than the setting NIS (default). Monitor ofc is set to 144 Hz. You could try go up on the Detail Settings but for me I'm fine this way.
 
@@ -54,7 +54,7 @@ Will run better with NVIDIA DLSS, but going FSR with AMD gives pretty good resul
 * Target Framerate: 120
 * Engine Multithreading: On
 
-### On Steam I am on these start commands now:
+### 4) On Steam I am on these start commands now:
 
 **-USEALLAVAILABLECORES --nologo --waitforpreload --noasync --softwareaudio**
 
