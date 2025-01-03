@@ -31,7 +31,7 @@ Will run better with NVIDIA DLSS, but going FSR with AMD gives pretty good resul
 ##### Display Settings
 * Renderer: Vulkan
 * Mode: Windowed Fullscreen (Yes fullscreen might get more FPS, but no Overlays possible then)
-* VSync: Adaptive
+* VSync: Off! (Also force deactivate this in your Nvidia/AMD Settings, gave me good result)
 * Resolution: Your Width x Height
 * Upscale Mode: FSR
 * Max Image Quality: No Upascale (Native AA)
